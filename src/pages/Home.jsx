@@ -40,10 +40,12 @@ function Home() {
         </div>
         {/* Jumbotron Wrapper End */}
         
-        {/* Homepage Contents Wrapper */}
+        {/* Homepage Contents Wrapper Start */}
         <div>
 
         </div>
+        {/* Homepage Contents Wrapper End */}
+      
       </div>
       // Main Div Wrapper End
     );
