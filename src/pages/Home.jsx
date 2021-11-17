@@ -1,6 +1,6 @@
 import logo from '../assets/png/waysfood.png';
 import pizza from '../assets/png/pizza-icon.png';
-import 'bootstrap/dist/css/bootstrap.min.css';
+// import 'bootstrap/dist/css/bootstrap.min.css';
 
 function Home() {
     return (
@@ -26,7 +26,7 @@ function Home() {
           {/* Jumbotron Content Wrapper */}
           <div className="header">
             <div className="headerText">
-              <h1 >Are You Hungry? <br/> Express Home Delivery</h1>
+              <p>Are You Hungry? <br/> Express Home Delivery</p>
               <div className="headerContent">
                 <div className="headerStick"></div>
                 <div className="headerDescription">
