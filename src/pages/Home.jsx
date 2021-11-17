@@ -22,7 +22,7 @@ function Home() {
               {/* Create conditional rendering below */}
           </div>
           
-          {/* Header Content Wrapper */}
+          {/* Jumbotron Content Wrapper */}
           <div className="jumbotron">
             <div className="jumbotronText">
               <h1 >Are You Hungry? <br/> Express Home Delivery</h1>
