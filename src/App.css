@@ -1,20 +1,20 @@
-.home-banner {
+.homeBanner {
   background: #FCC700;
   height: 558px;
   top: 0;
 }
 
-.home-nav {
+.homeNav {
   display: flex;
   justify-content: space-between;
   padding-top: 27px;
 }
 
-.home-logo {
+.homeLogo {
   padding-left: 65px;
 }
 
-.home-button {
+.homeButton {
   color: #fff;
   width: 100px;
   height: 30px;
@@ -33,12 +33,12 @@
   margin-top: 100.01px; */
 }
 
-.main-content {
+.mainContent {
   display: flex;
   background-color: seagreen;
 }
 
-.main-text {
+.mainText {
   background-color: #fff;
   
   font-family: Abhaya Libre ExtraBold, serif;
@@ -62,13 +62,13 @@
   background-color: skyblue;
 }
 
-.main-stick {
+.mainStick {
   width: 150px;
   height: 3px;
   background: #433434;
 }
 
-.main-description {
+.mainDescription {
   width: 274px;
   height: 76px;
   background-color: skyblue;
@@ -81,7 +81,7 @@
   color: #000000;
 }
 
-.main-image {
+.mainImage {
   height: 375.83px;
   width: 405.74px;
 }
