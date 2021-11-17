@@ -16,7 +16,7 @@ function Home() {
           </div>
           
           <div className="main">
-            <div>
+            <div className="main-text">
               <h1>Are You Hungry?</h1>
               <h1>Express Home Delivery</h1>
               <div>
