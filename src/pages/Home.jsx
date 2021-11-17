@@ -42,7 +42,7 @@ function Home() {
         {/* Jumbotron Wrapper End */}
         
         {/* Homepage Contents Wrapper Start */}
-        <div>
+        <div className="container">
           <div>
             bla
           </div>
