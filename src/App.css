@@ -42,15 +42,16 @@
   background-color: #fff;
 }
 
-/* #main-text-1 {
-  top: 180px;
-  left: 237px;
+#main-text-1 {
+  /* top: 180px;
+  left: 237px; */
+  background-color: skyblue;
 }
 
 #main-text-2 {
   top: 255px;
   left: 237px;
-} */
+}
 
 .main-stick {
   width: 150px;
