@@ -40,11 +40,14 @@
 
 .main-text {
   background-color: #fff;
-
-  /* font-style: normal;
+  
+  font-family: Abhaya Libre ExtraBold;
+  font-style: normal;
   font-weight: 800;
   font-size: 55px;
-  line-height: 65px; */
+  line-height: 65px;
+  /* identical to box height */
+  color: #433434;
 }
 
 #main-text-1 {
