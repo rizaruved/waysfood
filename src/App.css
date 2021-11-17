@@ -72,10 +72,6 @@
   margin-left: 30px;
 }
 
-.container {
-  justify-content: space-between;
-}
-
 .restaurantCard {
   width: 250px;
   height: 95px;
@@ -86,6 +82,7 @@
   display: flex;
   /* justify-content: center; */
   align-items: center;
+  margin-left: 10px;
 }
 
 #popRestaurantTitle {
