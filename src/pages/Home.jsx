@@ -1,9 +1,11 @@
+import logo from '../assets/png/waysfood.png';
+
 function Home() {
     return (
       <div className="home-banner">
           <div className="home-nav">
               <div className="home-logo">
-                <img src={'../assets/png/waysfood.png'} alt="waysfood-logo" />
+                <img src={logo} alt="waysfood-logo" />
               </div>
               
               <div>
