@@ -26,10 +26,8 @@ function Home() {
                 </div>
               </div>
             </div>
-            <div className="mainImage">
-              <img src={pizza} alt="pizza-image"/>
-            </div>
           </div>
+        <img src={pizza} alt="pizza-image" className="mainImage"/>
       </div>
     );
   }
