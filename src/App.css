@@ -16,12 +16,8 @@
 
 .home-button {
   color: #fff;
-  /* position: absolute; */
   width: 100px;
   height: 30px;
-  /* left: 1159px;
-  top: 27px; */
-
   background: #433434;
   border-radius: 5px;
 }
