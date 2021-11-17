@@ -1,6 +1,6 @@
 import logo from '../assets/png/waysfood.png';
 import pizza from '../assets/png/pizza-icon.png';
-// import 'bootstrap/dist/css/bootstrap.min.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 function Home() {
     return (
