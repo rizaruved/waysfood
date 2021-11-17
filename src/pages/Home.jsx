@@ -4,7 +4,7 @@ function Home() {
           <div className="home-nav">
               <p style={{marginTop: 0}}>WaysFood</p>
               <div>
-                <button>Register</button>
+                <button className="home-button">Register</button>
                 <button>Login</button>
               </div>
           </div>
