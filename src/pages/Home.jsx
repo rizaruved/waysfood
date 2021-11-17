@@ -14,7 +14,8 @@ function Home() {
                 <button className="home-button" style={{marginRight: 93.94, cursor: "pointer"}}>Login</button>
               </div>
           </div>
-          <div>
+          
+          <div className="main">
             <div>
               <h1>Are You Hungry?</h1>
               <h1>Express Home Delivery</h1>
