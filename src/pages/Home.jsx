@@ -49,7 +49,7 @@ function Home() {
           <h2>Popular Restaurant</h2>
           <div className="row">
             <div className="col-md-3 restaurantCard">
-              <img />
+              <img src={bkLogo} alt="burger-king-logo" />
             </div>
             <div className="col-md-3 restaurantCard">bli</div>
             <div className="col-md-3 restaurantCard">blu</div>
