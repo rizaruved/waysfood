@@ -10,6 +10,10 @@
   padding-top: 27px;
 }
 
+.home-logo {
+  padding-left: 65px;
+}
+
 .home-button {
   color: #fff;
   /* position: absolute; */
