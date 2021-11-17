@@ -10,8 +10,8 @@ function Home() {
               </div>
               
               <div>
-                <button className="homeButton" style={{marginRight: 16, cursor: "pointer"}}>Register</button>
-                <button className="homeButton" style={{marginRight: 93.94, cursor: "pointer"}}>Login</button>
+                <button className="homeButton" style={{marginRight: 16}}>Register</button>
+                <button className="homeButton" style={{marginRight: 93.94}}>Login</button>
               </div>
           </div>
           
