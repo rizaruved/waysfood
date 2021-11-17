@@ -73,12 +73,14 @@
 }
 
 .row {
-  /* display: flex;
-  justify-content: center; */
+  display: flex;
+  justify-content: center;
 }
 
 .container {
-  display: flex;
+  /* display: flex; */
+  text-align: center;
+  align-items: center;
   justify-content: center;
   width: 80%;
 }
