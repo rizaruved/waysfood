@@ -4,7 +4,7 @@ function Home() {
           <div className="home-nav">
               <p style={{marginTop: 0}}>WaysFood</p>
               <div>
-                <button className="home-button">Register</button>
+                <button className="home-button" style={{marginRight: 16, cursor: "pointer"}}>Register</button>
                 <button className="home-button" style={{marginRight: 93.94, cursor: "pointer"}}>Login</button>
               </div>
           </div>
