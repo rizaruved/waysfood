@@ -30,3 +30,9 @@
 .main-text {
   background-color: #fff;
 }
+
+.main-stick {
+  width: 150px;
+  height: 3px;
+  background: #433434;
+}
