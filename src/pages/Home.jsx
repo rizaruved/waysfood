@@ -3,6 +3,8 @@ function Home() {
       <div className="home-banner">
           <div>
               <p>WaysFood</p>
+              <button>Register</button>
+              <button>Login</button>
           </div>
           <div>
 
