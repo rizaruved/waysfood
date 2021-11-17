@@ -7,7 +7,7 @@
 .home-nav {
   display: flex;
   justify-content: space-between;
-  margin-top: 27px;
+  padding-top: 27px;
 }
 
 .home-button {
