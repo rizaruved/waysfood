@@ -26,9 +26,10 @@
 .main {
   display: flex;
   background-color: sienna;
-  width: 966px;
-  height: 393px;
+  /* width: 966px;
+  height: 393px; */
   margin-left: 237px;
+  margin-right: 242.82px;
 }
 
 .main-content {
