@@ -51,7 +51,7 @@
   /* identical to box height */
   color: #433434;
 
-  margin-top: 120px;
+  margin-top: 80px;
 }
 
 #main-text-1 {
@@ -69,7 +69,7 @@
 .mainDescription {
   width: 274px;
   height: 76px;
-  background-color: skyblue;
+  /* background-color: skyblue; */
   font-family: 'Nunito', sans-serif;
   font-style: normal;
   font-weight: normal;
