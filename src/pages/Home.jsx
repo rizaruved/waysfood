@@ -43,6 +43,7 @@ function Home() {
         
         {/* Homepage Contents Wrapper Start */}
         <div className="container">
+          <h2>Popular Restaurant</h2>
           <div>
             bla
           </div>
