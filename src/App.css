@@ -25,6 +25,7 @@
 
 .main {
   display: flex;
+  background-color: sienna;
 }
 
 .main-content {
