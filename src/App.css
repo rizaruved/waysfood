@@ -43,13 +43,13 @@
 }
 
 #main-text-1 {
-  margin-top: 180px;
-  margin-left: 237px;
+  top: 180px;
+  left: 237px;
 }
 
 #main-text-2 {
-  margin-top: 255px;
-  margin-left: 237px;
+  top: 255px;
+  left: 237px;
 }
 
 .main-stick {
