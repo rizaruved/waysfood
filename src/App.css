@@ -77,7 +77,7 @@
   height: 95px;
   left: 197px;
   top: 689px;
-  background: #fff;
+  background: #FFFFFF;
   border-radius: 5px;
 }
 
@@ -90,8 +90,4 @@
   color: #000000;
   margin-top: 59px;
   margin-bottom: 30px;
-}
-
-.restCardWrap {
-  margin-top: 80px;
 }
