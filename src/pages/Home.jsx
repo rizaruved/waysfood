@@ -51,12 +51,15 @@ function Home() {
           <div className="row">
             <div className="col-md-3 restaurantCard">
               <img src={bkLogo} alt="burger-king-logo" />
+              <p>Burger King</p>
             </div>
             <div className="col-md-3 restaurantCard">
               <img src={starbucksLogo} alt="starbucks-logo" />
+              <p>Starbucks</p>
             </div>
             <div className="col-md-3 restaurantCard">
               <img src={kfcLogo} alt="kfc-logo" />
+              <p>KFC</p>
             </div>
             <div className="col-md-3 restaurantCard">
               <img src={jcoLogo} alt="jco-logo" />
