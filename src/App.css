@@ -78,9 +78,7 @@
 }
 
 .container {
-  /* display: flex; */
-  text-align: center !important;
-  align-items: center !important  ;
+  display: table-row;
   justify-content: center;
   width: 80%;
 }
