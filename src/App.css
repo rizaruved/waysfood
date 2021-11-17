@@ -26,6 +26,7 @@
 .main {
   display: flex;
   background-color: sienna;
+  justify-content: center;
   /* width: 966px;
   height: 393px; */
   /* margin-left: 237px;
