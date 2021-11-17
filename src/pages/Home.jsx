@@ -1,4 +1,5 @@
 import logo from '../assets/png/waysfood.png';
+import pizza from '../assets/png/pizza-icon.png';
 
 function Home() {
     return (
@@ -18,7 +19,9 @@ function Home() {
               <h1>Are You Hungry?</h1>
               <h1>Express Home Delivery</h1>
             </div>
-            <div></div>
+            <div>
+              <img src={pizza} alt="pizza-image"/>
+            </div>
           </div>
       </div>
     );
