@@ -52,10 +52,14 @@ function Home() {
               <img src={bkLogo} alt="burger-king-logo" />
             </div>
             <div className="col-md-3 restaurantCard">
-            <img src={starbucksLogo} alt="starbucks-logo" />
+              <img src={starbucksLogo} alt="starbucks-logo" />
             </div>
-            <div className="col-md-3 restaurantCard">blu</div>
-            <div className="col-md-3 restaurantCard">ble</div>
+            <div className="col-md-3 restaurantCard">
+              <img src={kfcLogo} alt="kfc-logo" />
+            </div>
+            <div className="col-md-3 restaurantCard">
+              <img src={jcoLogo} alt="jco-logo" />
+            </div>
           </div>
           <div>
             blu
