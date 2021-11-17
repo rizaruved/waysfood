@@ -1,7 +1,10 @@
 function Home() {
     return (
-      <div className="home-banner">
+      <div>
+          <p>WaysFood</p>
+          <div className="home-banner">
 
+          </div>
       </div>
     );
   }
