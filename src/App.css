@@ -64,6 +64,10 @@
   width: 274px;
   height: 76px;
   background-color: skyblue;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 19px;
+  color: #000000;
 }
 
 .main-image {
