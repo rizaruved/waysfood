@@ -3,12 +3,16 @@ import pizza from '../assets/png/pizza-icon.png';
 
 function Home() {
     return (
-      <div className="homeBanner">
+      <div>
+        {/* Banner Wrapper */}
+        <div className="homeBanner">
+          {/* Navigation Bar Wrapper */}
           <div className="homeNav">
+              {/* Logo Wrapper */}
               <div className="homeLogo">
                 <img src={logo} alt="waysfood-logo" />
               </div>
-              
+              {/* Button Wrapper */}
               <div>
                 <button className="homeButton" style={{marginRight: 16}}>Register</button>
                 <button className="homeButton" style={{marginRight: 93.94}}>Login</button>
@@ -16,6 +20,7 @@ function Home() {
               {/* Create conditional rendering below */}
           </div>
           
+          {/* Header Content Wrapper */}
           <div className="main">
             <div className="mainText">
               <h1 >Are You Hungry? <br/> Express Home Delivery</h1>
@@ -30,6 +35,10 @@ function Home() {
               <img src={pizza} alt="pizza-image"/>
             </div>
           </div>
+        </div>
+        <div>
+
+        </div>
       </div>
     );
   }
