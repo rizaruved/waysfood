@@ -45,10 +45,10 @@ function Home() {
         <div className="container">
           <h2>Popular Restaurant</h2>
           <div className="row">
-            <div className="col-md-3"></div>
-            <div className="col-md-3"></div>
-            <div className="col-md-3"></div>
-            <div className="col-md-3"></div>
+            <div className="col-md-3">bla</div>
+            <div className="col-md-3">bli</div>
+            <div className="col-md-3">blu</div>
+            <div className="col-md-3">ble</div>
           </div>
           <div>
             blu
