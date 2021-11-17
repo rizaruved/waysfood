@@ -1,3 +1,4 @@
+// Assets import
 import logo from '../assets/png/waysfood.png';
 import pizza from '../assets/png/pizza-icon.png';
 import bkLogo from '../assets/png/burgerking.png';
