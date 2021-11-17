@@ -14,7 +14,11 @@ function Home() {
               </div>
           </div>
           <div>
-
+            <div>
+              <h1>Are You Hungry?</h1>
+              <h1>Express Home Delivery</h1>
+            </div>
+            <div></div>
           </div>
       </div>
     );
