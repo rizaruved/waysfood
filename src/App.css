@@ -72,6 +72,11 @@
   margin-left: 30px;
 }
 
+.row {
+  display: flex;
+  justify-content: center;
+}
+
 .restaurantCard {
   width: 250px;
   height: 95px;
