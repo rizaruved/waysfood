@@ -26,7 +26,7 @@
 
 .main {
   display: flex;
-  background-color: sienna;
+  /* background-color: sienna; */
   justify-content: center;
   /* width: 966px;
   height: 393px; */
@@ -37,11 +37,11 @@
 
 .mainContent {
   display: flex;
-  background-color: seagreen;
+  /* background-color: seagreen; */
 }
 
 .mainText {
-  background-color: #fff;
+  /* background-color: #fff; */
   
   font-family: Abhaya Libre ExtraBold, serif;
   font-style: normal;
@@ -57,7 +57,7 @@
 #main-text-1 {
   left: 237px;
   top: 180px;
-  background-color: skyblue;
+  /* background-color: skyblue; */
 }
 
 .mainStick {
