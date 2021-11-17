@@ -80,6 +80,8 @@
   background: #FFFFFF;
   border-radius: 5px;
   display: flex;
+  /* justify-content: center; */
+  align-items: center;
 }
 
 #popRestaurantTitle {
@@ -96,6 +98,4 @@
 .restaurantLogo {
   height: 65px;
   width: auto;
-  justify-content: center;
-  align-items: center;
 }
