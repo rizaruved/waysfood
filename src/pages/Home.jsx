@@ -1,5 +1,9 @@
 import logo from '../assets/png/waysfood.png';
 import pizza from '../assets/png/pizza-icon.png';
+import bkLogo from '../assets/png/burgerking.png';
+import starbucksLogo from '../assets/png/starbucks.png';
+import kfcLogo from '../assets/png/kfc.png';
+import jcoLogo from '../assets/png/jco.png';
 
 function Home() {
     return (
@@ -44,7 +48,9 @@ function Home() {
         <div className="container">
           <h2>Popular Restaurant</h2>
           <div className="row">
-            <div className="col-md-3 restaurantCard">bla</div>
+            <div className="col-md-3 restaurantCard">
+              <img />
+            </div>
             <div className="col-md-3 restaurantCard">bli</div>
             <div className="col-md-3 restaurantCard">blu</div>
             <div className="col-md-3 restaurantCard">ble</div>
