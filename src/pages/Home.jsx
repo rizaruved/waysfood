@@ -37,7 +37,7 @@ function Home() {
           </div>
         </div>
         
-        
+        {/* Homepage Contents Wrapper */}
         <div>
 
         </div>
