@@ -42,7 +42,12 @@ function Home() {
         
         {/* Homepage Contents Wrapper Start */}
         <div>
-
+          <div>
+            bla
+          </div>
+          <div>
+            blu
+          </div>
         </div>
         {/* Homepage Contents Wrapper End */}
       
