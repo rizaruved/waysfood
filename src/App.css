@@ -67,3 +67,12 @@
   margin-top: 50px;
   margin-left: 30px;
 }
+
+.restaurantCard {
+  width: 250px;
+  height: 95px;
+  left: 197px;
+  top: 689px;
+  background: #FFFFFF;
+  border-radius: 5px;
+}
