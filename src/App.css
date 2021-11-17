@@ -96,4 +96,6 @@
 .restaurantLogo {
   height: 65px;
   width: auto;
+  justify-content: center;
+  align-items: center;
 }
