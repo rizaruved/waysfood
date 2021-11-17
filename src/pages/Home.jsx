@@ -3,7 +3,7 @@ function Home() {
       <div className="home-banner">
           <div className="home-nav">
               <div className="home-logo">
-                <img src={"./assets/png.waysfood.png"} />
+                <img src={"../assets/png/waysfood.png"} />
               </div>
               
               <div>
