@@ -3,6 +3,7 @@ import pizza from '../assets/png/pizza-icon.png';
 
 function Home() {
     return (
+      // Main Div Wrapper Start
       <div>
         {/* Banner Wrapper */}
         <div className="homeBanner">
@@ -42,6 +43,7 @@ function Home() {
 
         </div>
       </div>
+      // Main Div Wrapper End
     );
   }
   
