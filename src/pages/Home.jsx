@@ -51,7 +51,9 @@ function Home() {
             <div className="col-md-3 restaurantCard">
               <img src={bkLogo} alt="burger-king-logo" />
             </div>
-            <div className="col-md-3 restaurantCard">bli</div>
+            <div className="col-md-3 restaurantCard">
+            <img src={starbucksLogo} alt="starbucks-logo" />
+            </div>
             <div className="col-md-3 restaurantCard">blu</div>
             <div className="col-md-3 restaurantCard">ble</div>
           </div>
