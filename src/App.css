@@ -94,5 +94,6 @@
 }
 
 .restaurantLogo {
-  font-size: 10px;
+  height: 25px;
+  width: auto;
 }
