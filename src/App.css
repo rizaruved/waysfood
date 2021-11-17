@@ -59,8 +59,9 @@
 
 .mainStick {
   width: 150px;
-  height: 2.5px;
+  height: 3px;
   background: #433434;
+  margin-top: 1%;
 }
 
 .mainDescription {
