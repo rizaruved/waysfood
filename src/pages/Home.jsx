@@ -13,7 +13,7 @@ function Home() {
                 <button className="homeButton" style={{marginRight: 16}}>Register</button>
                 <button className="homeButton" style={{marginRight: 93.94}}>Login</button>
               </div>
-              {/* Create conditional rendering here */}
+              {/* Create conditional rendering below */}
           </div>
           
           <div className="main">
