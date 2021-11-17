@@ -28,6 +28,7 @@
   background-color: sienna;
   width: 966px;
   height: 393px;
+  margin-left: 237px;
 }
 
 .main-content {
@@ -37,8 +38,6 @@
 
 .main-text {
   background-color: #fff;
-  margin-top: 180px;
-  margin-left: 237px;
 }
 
 .main-stick {
