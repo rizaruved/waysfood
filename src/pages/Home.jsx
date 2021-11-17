@@ -26,7 +26,7 @@ function Home() {
                 </div>
               </div>
             </div>
-            <div>
+            <div className="main-image">
               <img src={pizza} alt="pizza-image"/>
             </div>
           </div>
