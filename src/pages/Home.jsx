@@ -1,8 +1,8 @@
 function Home() {
     return (
-      <div>
+      <div className="home-banner">
           <p>WaysFood</p>
-          <div className="home-banner">
+          <div>
 
           </div>
       </div>
