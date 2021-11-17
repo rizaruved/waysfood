@@ -26,8 +26,8 @@ function Home() {
                 </div>
               </div>
             </div>
-            <div className="main-image">
-              <img src={pizza} alt="pizza-image"/>
+            <div>
+              <img src={pizza} alt="pizza-image" className="main-image"/>
             </div>
           </div>
       </div>
