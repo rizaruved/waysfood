@@ -5,7 +5,7 @@ function Home() {
               <p style={{marginTop: 0}}>WaysFood</p>
               <div>
                 <button className="home-button">Register</button>
-                <button>Login</button>
+                <button className="home-button">Login</button>
               </div>
           </div>
           <div>
