@@ -1,3 +1,7 @@
+.mainDiv {
+  background-color: #EFEFEF;
+}
+
 .homeBanner {
   background: #FCC700;
   height: 558px;
@@ -73,6 +77,6 @@
   height: 95px;
   left: 197px;
   top: 689px;
-  background: #3a1e1e;
+  background: #fff;
   border-radius: 5px;
 }
