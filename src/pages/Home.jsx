@@ -47,7 +47,7 @@ function Home() {
         
         {/* Homepage Contents Wrapper Start */}
         <div className="container">
-          <h2>Popular Restaurant</h2>
+          <p>Popular Restaurant</p>
           <div className="row">
             <div className="col-md-3 restaurantCard">
               <img src={bkLogo} alt="burger-king-logo" />
