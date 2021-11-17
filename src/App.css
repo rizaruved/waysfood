@@ -26,18 +26,11 @@
 
 .main {
   display: flex;
-  /* background-color: sienna; */
   justify-content: center;
-  /* width: 966px;
-  height: 393px; */
-  /* margin-left: 237px;
-  margin-right: 239.26px;
-  margin-top: 100.01px; */
 }
 
 .mainContent {
   display: flex;
-  /* background-color: seagreen; */
 }
 
 .mainText {
@@ -47,7 +40,6 @@
   font-size: 27px;
   line-height: 65px;
   color: #433434;
-
   margin-top: 60px;
 }
 
@@ -61,13 +53,11 @@
 .mainDescription {
   width: 274px;
   height: 76px;
-  /* background-color: skyblue; */
   font-family: 'Nunito', sans-serif;
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
   line-height: 19px;
-
   color: #000000;
   margin-left: 30px;
   margin-top: 0%;
