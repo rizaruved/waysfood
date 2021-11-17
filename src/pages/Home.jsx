@@ -17,8 +17,8 @@ function Home() {
           
           <div className="main">
             <div className="main-text">
-              <h1>Are You Hungry?</h1>
-              <h1>Express Home Delivery</h1>
+              <h1 id="main-text-1">Are You Hungry?</h1>
+              <h1 id="main-text-2">Express Home Delivery</h1>
               <div className="main-content">
                 <div className="main-stick"></div>
                 <div className="main-description">
