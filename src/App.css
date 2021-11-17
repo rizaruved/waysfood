@@ -48,6 +48,8 @@
   line-height: 65px;
   /* identical to box height */
   color: #433434;
+
+
 }
 
 #main-text-1 {
@@ -82,7 +84,4 @@
 }
 
 .mainImage {
-  margin-top: 125px;
-  margin-right: 239.26px;
-  margin-left: 795px;
 }
