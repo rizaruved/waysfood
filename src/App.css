@@ -41,14 +41,11 @@
 }
 
 .mainText {
-  /* background-color: #fff; */
-  
   font-family: Abhaya Libre ExtraBold, serif;
   font-style: normal;
   font-weight: 800;
-  font-size: 20px;
+  font-size: 25px;
   line-height: 65px;
-  /* identical to box height */
   color: #433434;
 
   margin-top: 60px;
