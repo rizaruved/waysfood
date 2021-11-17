@@ -20,5 +20,5 @@
   height: 30px;
   background: #433434;
   border-radius: 5px;
-  text-decoration: none;
+  box-shadow: none;
 }
