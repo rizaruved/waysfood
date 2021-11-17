@@ -20,7 +20,7 @@ function Home() {
               <h1>Are You Hungry?</h1>
               <h1>Express Home Delivery</h1>
               <div>
-                <div></div>
+                <div className="main-stick"></div>
                 <div>
                 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
                 </div>
