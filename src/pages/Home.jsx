@@ -63,6 +63,7 @@ function Home() {
             </div>
             <div className="col-md-3 restaurantCard">
               <img src={jcoLogo} alt="jco-logo" />
+              <p>Jco</p>
             </div>
           </div>
           <div>
