@@ -1,12 +1,9 @@
 import './App.css';
+import Home from './pages/Home.jsx';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <h2>WAYSFOOD</h2>
-      </header>
-    </div>
+    <Home />
   );
 }
 
