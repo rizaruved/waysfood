@@ -49,8 +49,9 @@
 }
 
 #main-text-2 {
-  top: 255px;
-  left: 237px;
+  /* top: 255px;
+  left: 237px; */
+  background-color: skyblue;
 }
 
 .main-stick {
