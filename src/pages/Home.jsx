@@ -5,7 +5,8 @@ function Home() {
     return (
       // Main Div Wrapper Start
       <div>
-        {/* Banner Wrapper */}
+        
+        {/* Jumbotron Wrapper Start */}
         <div className="homeBanner">
           {/* Navigation Bar Wrapper */}
           <div className="homeNav">
@@ -37,6 +38,7 @@ function Home() {
             </div>
           </div>
         </div>
+        {/* Jumbotron Wrapper End */}
         
         {/* Homepage Contents Wrapper */}
         <div>
